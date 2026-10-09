@@ -1,0 +1,5 @@
+__pycache__/
+*.pt
+temp/
+src/input/
+src/output/
